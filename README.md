@@ -13,3 +13,11 @@ docker-compose --profile schema  up -d
 ```code
 docker-compose --profile all  up -d
 ```
+
+* login 
+
+> with username: admin password: dolphinscheduler123
+
+```code
+http://localhost:12345/dolphinscheduler/ui/
+```
